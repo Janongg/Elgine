@@ -42,9 +42,9 @@
 ---
 
 ## GitHub Stats
-![Rhome's GitHub Stats](https://github-readme-stats.vercel.app/api?janongg=janongg&show_icons=true&theme=default)
+![Rhome's GitHub Stats](https://github-readme-stats.vercel.app/api?Janongg=Janongg&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?janongg=janongg&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Janongg=Janongg&layout=compact)
 
 ---
 
